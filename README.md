@@ -76,5 +76,3 @@ Data loaded using Pandas in Python.
 - Use station zone data to guide search direction.
 - Implement and explain the heuristic function.
 - Compare results with UCS in terms of time efficiency using test routes.
-
-## Results
