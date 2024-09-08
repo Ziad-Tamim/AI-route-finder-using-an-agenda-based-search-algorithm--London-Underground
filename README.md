@@ -1,5 +1,5 @@
 # AI-route-finder-using-an-agenda-based-search-mechanism--London-Underground
-building an AI route finder for the London Tube system using an agenda-based search mechanism.
+Building an AI route finder for the London Tube system using an agenda-based search mechanism.
 
 ![London-tube-map](https://github.com/user-attachments/assets/bdfd38d7-e129-4ad7-88b6-23d9ce079c98)
 
